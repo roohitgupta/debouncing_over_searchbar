@@ -1,4 +1,4 @@
-<h1> whatever we search in the searchbox the result will appear after 2 seconds <h1/>
+<h1> whatever we search in the searchbox and when we stop typing the debouncing fucntion will run and the result will appear after 2 seconds <h1/>
 
 
 
